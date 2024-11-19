@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "new": "cpp",
+        "check_buffer_para.h": "c"
+    }
+}

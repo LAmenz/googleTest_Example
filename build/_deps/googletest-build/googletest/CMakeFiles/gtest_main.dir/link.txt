@@ -1,0 +1,2 @@
+C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\ar.exe qc ..\..\..\lib\libgtest_main.a CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj
+C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\ranlib.exe ..\..\..\lib\libgtest_main.a
