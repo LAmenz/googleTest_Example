@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\test_save_data.dir/objects.a
-C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\ar.exe qc CMakeFiles\test_save_data.dir/objects.a @CMakeFiles\test_save_data.dir\objects1.rsp
-C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\test_save_data.dir/objects.a -Wl,--no-whole-archive -o test_save_data.exe -Wl,--out-implib,libtest_save_data.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\test_save_data.dir\linklibs.rsp

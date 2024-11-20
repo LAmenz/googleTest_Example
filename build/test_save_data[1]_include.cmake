@@ -1,5 +1,0 @@
-if(EXISTS "D:/my_project/build/test_save_data[1]_tests.cmake")
-  include("D:/my_project/build/test_save_data[1]_tests.cmake")
-else()
-  add_test(test_save_data_NOT_BUILT test_save_data_NOT_BUILT)
-endif()

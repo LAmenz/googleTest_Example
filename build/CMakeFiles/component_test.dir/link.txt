@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\CMake\bin\cmake.exe" -E rm -f CMakeFiles\component_test.dir/objects.a
-C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\ar.exe qc CMakeFiles\component_test.dir/objects.a @CMakeFiles\component_test.dir\objects1.rsp
-C:\ProgramData\chocolatey\lib\mingw-x86_64-posix-seh\tools\install\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\component_test.dir/objects.a -Wl,--no-whole-archive -o component_test.exe -Wl,--out-implib,libcomponent_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\component_test.dir\linklibs.rsp
